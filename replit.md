@@ -86,8 +86,14 @@ This is a professional portfolio website for Chandrasekhar Moharana, a Java deve
 
 ## Changelog
 
-Changelog:
-- June 25, 2025. Initial setup
+- June 25, 2025: Updated portfolio with authentic user data
+  - Added real email: lit.chandrasekhar2017@gmail.com
+  - Updated skills section with actual technical and professional skills
+  - Added Education section with MCA and BSc degrees from BPUT and Utkal University
+  - Added Experience section with current role at ApMoSys Technologies
+  - Enhanced navigation to include new sections
+  - Updated About section with current work experience details
+- June 25, 2025: Initial setup
 
 ## User Preferences
 

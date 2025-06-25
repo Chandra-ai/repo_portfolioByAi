@@ -81,7 +81,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-slate-900">Email</h4>
-                  <p className="text-slate-600">chandrasekhar.moharana@email.com</p>
+                  <p className="text-slate-600">lit.chandrasekhar2017@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center">

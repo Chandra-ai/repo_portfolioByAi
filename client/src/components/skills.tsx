@@ -20,8 +20,8 @@ const SkillBar = ({ skill, level }: { skill: string; level: number }) => {
 
 export default function Skills() {
   const additionalSkills = [
-    "RESTful APIs", "Microservices", "JUnit", "Mockito", 
-    "HTML/CSS", "JavaScript", "Linux", "Jenkins"
+    "Eclipse IDE", "Visual Studio Code", "Postman", "SQL Server",
+    "Teamwork", "Project Management", "Time Management", "Critical Thinking"
   ];
 
   return (
@@ -44,10 +44,10 @@ export default function Skills() {
               <h3 className="text-xl font-bold text-slate-900">Core Java</h3>
             </div>
             <div className="space-y-3">
-              <SkillBar skill="Java SE/EE" level={4} />
-              <SkillBar skill="OOP Concepts" level={5} />
-              <SkillBar skill="Collections" level={4} />
-              <SkillBar skill="Multithreading" level={3} />
+              <SkillBar skill="Core Java" level={5} />
+              <SkillBar skill="JavaScript" level={4} />
+              <SkillBar skill="HTML/CSS" level={4} />
+              <SkillBar skill="Problem Solving" level={5} />
             </div>
           </div>
 
@@ -60,10 +60,10 @@ export default function Skills() {
               <h3 className="text-xl font-bold text-slate-900">Frameworks</h3>
             </div>
             <div className="space-y-3">
-              <SkillBar skill="Spring Boot" level={4} />
-              <SkillBar skill="Hibernate/JPA" level={4} />
-              <SkillBar skill="Spring MVC" level={3} />
-              <SkillBar skill="Maven/Gradle" level={4} />
+              <SkillBar skill="Spring Boot" level={5} />
+              <SkillBar skill="Angular" level={4} />
+              <SkillBar skill="AngularJS" level={4} />
+              <SkillBar skill="Bootstrap" level={4} />
             </div>
           </div>
 
@@ -76,10 +76,10 @@ export default function Skills() {
               <h3 className="text-xl font-bold text-slate-900">Database & Tools</h3>
             </div>
             <div className="space-y-3">
-              <SkillBar skill="MySQL" level={4} />
-              <SkillBar skill="PostgreSQL" level={3} />
+              <SkillBar skill="MySQL" level={5} />
+              <SkillBar skill="MSSQL" level={4} />
               <SkillBar skill="Git" level={5} />
-              <SkillBar skill="Docker" level={3} />
+              <SkillBar skill="BitBucket" level={4} />
             </div>
           </div>
         </div>
